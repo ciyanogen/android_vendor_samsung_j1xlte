@@ -89,7 +89,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j1xlte/proprietary/lib/omx/libOMX.Exynos.VP8.Decoder.so:system/lib/omx/libOMX.Exynos.VP8.Decoder.so \
     vendor/samsung/j1xlte/proprietary/lib/omx/libOMX.Exynos.VP8.Encoder.so:system/lib/omx/libOMX.Exynos.VP8.Encoder.so \
     vendor/samsung/j1xlte/proprietary/lib/omx/libOMX.Exynos.WMV.Decoder.so:system/lib/omx/libOMX.Exynos.WMV.Decoder.so \
-    vendor/samsung/j1xlte/proprietary/vendor/firmware/bcm43438A1_V0055.0142.hcd:system/vendor/firmware/bcm43438A1_V0055.0142.hcd \
+    vendor/samsung/j1xlte/proprietary/vendor/firmware/bcm43438A1_V0041.0142.hcd:system/vendor/firmware/bcm43438A1_V0041.0142.hcd \
     vendor/samsung/j1xlte/proprietary/vendor/firmware/es305_fw.bin:system/vendor/firmware/es305_fw.bin \
     vendor/samsung/j1xlte/proprietary/vendor/firmware/es305_fw_bypass.bin:system/vendor/firmware/es305_fw_bypass.bin \
     vendor/samsung/j1xlte/proprietary/vendor/firmware/mfc_fw.bin:system/vendor/firmware/mfc_fw.bin \
