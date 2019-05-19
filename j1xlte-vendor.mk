@@ -37,6 +37,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j1xlte/proprietary/app/mcRegistry/ffffffffd00000000000000000000016.tlbin:system/app/mcRegistry/ffffffffd00000000000000000000016.tlbin \
     vendor/samsung/j1xlte/proprietary/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
     vendor/samsung/j1xlte/proprietary/bin/gpsd:system/bin/gpsd \
+    vendor/samsung/j1xlte/proprietary/bin/mcDriverDaemon:system/bin/mcDriverDaemon \
     vendor/samsung/j1xlte/proprietary/bin/netd:system/bin/netd \
     vendor/samsung/j1xlte/proprietary/bin/prepare_param.sh:system/bin/prepare_param.sh \
     vendor/samsung/j1xlte/proprietary/bin/rild:system/bin/rild \
