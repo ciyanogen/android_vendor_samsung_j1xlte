@@ -80,8 +80,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j1xlte/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/j1xlte/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
     vendor/samsung/j1xlte/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
-	vendor/samsung/j1xlte/proprietary/lib/libcrypto.so:system/lib/libcrypto.so \
-	vendor/samsung/j1xlte/proprietary/lib/libCryptionKey.so:system/lib/libCryptionKey.so \
     vendor/samsung/j1xlte/proprietary/lib/omx/libOMX.Exynos.AVC.Decoder.so:system/lib/omx/libOMX.Exynos.AVC.Decoder.so \
     vendor/samsung/j1xlte/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so:system/lib/omx/libOMX.Exynos.AVC.Encoder.so \
     vendor/samsung/j1xlte/proprietary/lib/omx/libOMX.Exynos.HEVC.Decoder.so:system/lib/omx/libOMX.Exynos.HEVC.Decoder.so \
